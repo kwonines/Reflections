@@ -1,0 +1,11 @@
+[color]
+	ui = auto
+	aui = auto
+[core]
+	editor = 'c:/program\\ Files/Sublime\\ Text\\ 2/Sublime text.exe' -n -w
+[merge]
+	conflictstyle = diff3
+[push]
+	default = upstream
+[user]
+	email = lion_onines@yahoo.com

@@ -47,6 +47,10 @@ When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
 	To make experimental changes that you don't want to be in the actuall code.
+	
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+		So strange or unfinished changes aren't put onto your local version. So if someone makes a change to your public  	repository on 
+	github you don't automatically have it shoved onto your local version.
 
     
 
